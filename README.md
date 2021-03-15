@@ -1,5 +1,7 @@
 # About-me
 
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
 I am a curious and enthusiastic full stack software developer with a passion for collaboration, innovation and continuous improvement. I enjoy building beautiful software that is intuitive and accessible, while solving real problems and presenting data in a digestible manner.
 
 With a background in financial services in both the retail and investment spaces, I have now turned to my true passion of software development. I am looking for the perfect opportunity to grow as a developer, and utilise my past experiences to deliver amazing products.
