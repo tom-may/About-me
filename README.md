@@ -30,7 +30,7 @@ Additionally, I also took charge of the styling for the site. Using the SCSS fra
 
 ## Technical Skills
 
-*HTML
+⋅⋅* HTML
 *CSS (SASS & Bulma)
 *JavaScript
 *React
