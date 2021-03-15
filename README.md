@@ -31,17 +31,17 @@ Additionally, I also took charge of the styling for the site. Using the SCSS fra
 ## Technical Skills
 
 * HTML
-*CSS (SASS & Bulma)
-*JavaScript
-*React
-*Redux
-*Node.js
-*Express.js
-*Knex.js
-*SQLite
-*Git
+* CSS (SASS & Bulma)
+* JavaScript
+* React
+* Redux
+* Node.js
+* Express.js
+* Knex.js
+* SQLite
+* Git
 
-*Agile and Scrum Management
-*Kanban Planning
-*Lightning Talks
-*TDD (Test Driven Development)
+* Agile and Scrum Management
+* Kanban Planning
+* Lightning Talks
+* TDD (Test Driven Development)
