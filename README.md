@@ -9,7 +9,6 @@ As a fullstack developer, I use JavaScript, React, REST APIs, HTML5, CSS and Nod
 You can see all of this at work in my Github Repos. Some of these are personal projects, while some are team efforts. 
 
 Thank you for taking the time to have a look at my work, I hope you enjoy!
-___
 
 ## Projects
 
@@ -29,25 +28,20 @@ For this project, I felt that it was vital for us to have the power to audit any
 
 Additionally, I also took charge of the styling for the site. Using the SCSS framework Bulma, I was able to explore a variety of ways to use SCSS to develop an application with UX in mind.
 
-___
-
 ## Technical Skills
 
-⋅⋅*HTML
-CSS (SASS & Bulma)
-JavaScript
-React
-Redux
-Node.js
-Express.js
-Knex.js
-SQLite
-Git
+*HTML
+*CSS (SASS & Bulma)
+*JavaScript
+*React
+*Redux
+*Node.js
+*Express.js
+*Knex.js
+*SQLite
+*Git
 
-___
-
-
-⋅⋅*Agile and Scrum Management
-Kanban Planning
-Lightning Talks
-TDD (Test Driven Development)
+*Agile and Scrum Management
+*Kanban Planning
+*Lightning Talks
+*TDD (Test Driven Development)
