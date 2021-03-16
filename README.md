@@ -24,7 +24,7 @@ Pie r8 utilises Javascript, React and Redux to create a seemless full stack appl
 
 Inspired by Glassdoor, [Glasshome](https://glasshome.herokuapp.com/#/) is a project hacked together over a week in a team of Seven. It is a fullstack web application that puts power in tenants hands by letting them have a voice.
 
-For this project, I felt that it was vital for us to have the power to audit any reviews that are added to the site. For this reason,. my main contribution to the project was to develop an Admin portal, where we could see metrics for recently added reviews, properties and users. Most importantly, I developed an Admin login using authenticare which gave us special permissions to update and delete any reviews or properties on the site.
+For this project, I felt that it was vital for us to have the power to audit any reviews that are added to the site. For this reason, my main contribution to the project was to develop an Admin portal, where we could see metrics for recently added reviews, properties and users. Most importantly, I developed an Admin login using authenticare which gave us special permissions to update and delete any reviews or properties on the site.
 
 Additionally, I also took charge of the styling for the site. Using the SCSS framework Bulma, I was able to explore a variety of ways to use SCSS to develop an application with UX in mind.
 
