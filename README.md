@@ -14,11 +14,12 @@ Thank you for taking the time to have a look at my work, I hope you enjoy!
 
 Most of the projects you can find on my github are short projects, hacked togeather over a period between 1-7 days. For the most part, these were team efforts and a lot of pair programming was involved in building the apps. 
 
-### Pie-r8
+### Tea Tree Tours
+https://teatreetours.com.au/
 
-Very much a work in progress, Pie-r8 is an ongoing personal project that I have been using to hone my full stack development skills. Pie r8 allows users to create a profile and add reviews for their favourte Pie's around the country. 
+A website for a small tourism operator. Built using JS, React, Bulma CSS, HTML, Node.js and express.js
 
-Pie r8 utilises Javascript, React and Redux to create a seemless full stack application. Now in it's fourth iteration, I am turning my focus to a slicker design using the Bulma Scss framework for a better user experience. 
+Building this site from the ground up provided me with a fantastic opportunity to be a part of the full development cycle. From planning with the client, to SEO optimization and deployment on cPanel - there were many new challenges along the way. It was an incredible learning opportunity, and I'm very excited to have my first app deployed to the world
 
 ### GlassHome
 
